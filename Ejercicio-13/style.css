@@ -1,0 +1,28 @@
+*{
+    font-family: Georgia, Cambria, Serif;
+    font-size: 16px;
+    color: #00f;
+    background-color: #cfc
+}
+h1{
+    color: #f00;
+    font-family: verdana, calibri, sans-serif;
+    font-size: 32px;
+}
+h2{
+    color: #a00;
+    font-family: verdana, calibri, sans-serif;
+    font-size: 24px;
+}
+.book-date{
+    color: #060;
+}
+.negrita{
+    font-size:20px;
+    font-weight:bolder;
+}
+.resaltado{
+    color: #fff;
+    background-color: #000;
+    font-style: italic;
+}
