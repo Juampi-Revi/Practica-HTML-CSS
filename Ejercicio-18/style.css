@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+    width: 120px;
+    background-color: blue;
+    margin: 5px;
+    text-align:center;
+}
+li:hover{
+    border: 2px solid red;
+}
