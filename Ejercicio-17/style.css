@@ -1,0 +1,15 @@
+.none li{
+    list-style-type: none;
+}
+.circulos li{
+    list-style-type: circle;
+}
+.cuadrados li{
+    list-style-type: square;
+}
+.N-Romanos li{
+    list-style-type: lower-roman;
+}
+.N-Griegos li{
+    list-style-type: lower-greek;
+}
