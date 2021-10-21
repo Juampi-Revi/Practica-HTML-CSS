@@ -1,0 +1,25 @@
+body{
+    padding: 0;
+    width: 80%;
+}
+h1{
+    text-align: center;
+}
+aside{
+    float: left;
+    width: 25%;
+}
+section{
+    float: right;
+    width: 75%;
+}
+.articulo ul{
+    list-style: none;
+    text-align: justify;
+    display: flex;
+    padding: 0;
+    justify-content: space-between;
+}
+.articulo li{
+    width: 30%;
+}
