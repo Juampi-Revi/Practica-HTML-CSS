@@ -11,7 +11,8 @@ aside{
 }
 section{
     float: right;
-    width: 75%;
+    width: 72%;
+    margin-left:1% ;
 }
 .articulo ul{
     list-style: none;
