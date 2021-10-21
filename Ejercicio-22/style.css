@@ -1,0 +1,26 @@
+body{
+    width: 60em;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+aside{
+    float: left;
+    width: 16em;
+}
+section{
+    float: right;
+    width: 44em;
+}
+.articulo li{
+    width: 14.5 em; 
+    margin-right: 1.5em;
+}
+.articulo ul{
+    list-style: none;
+    display: flex;
+    text-align: justify;
+    padding: 0;
+}
