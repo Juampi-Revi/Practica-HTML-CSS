@@ -1,0 +1,73 @@
+html{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 62.5%;
+}
+body{
+    width: 80rem;
+}
+h1{
+    font-size: 2.5rem;
+}
+.container, h1{
+    border-bottom: 0.1rem solid rgba(85, 85, 85, 0.479);
+    margin: 2rem;
+    padding:1.5rem;
+    display: flex;
+}
+.formulario1{
+    margin-top: 1.8rem;
+    width: 70%;
+}
+.titulo1{
+    font-size:1.4rem;
+    font-weight: bold;
+    width: 25%;
+    text-align: end;
+    margin-right: 2rem;
+}
+input, select{
+    border: none;
+    border-bottom: 0.2rem solid black;
+}
+#Apellido1, #Apellido2{
+    width: 20rem;
+}
+#Direccion{
+    width: 50%;
+}
+.seccion1{
+    float: left;
+}
+.seccion2{
+    float: right;
+    margin-left: 5rem;
+}
+#Provincia, #CodigoPostal{
+    width:60% ;
+}
+#pais{
+    width: 40%;
+}
+#email{
+    width: 25%;
+}
+.telFijo, .celular{
+    margin-right: 10rem;
+}
+#fijo, #celular{
+    width: 70%;
+}
+.boton{
+    float: right;
+    font-size:1.6rem;
+    border: none;
+}
+.container:hover{
+    background-color:#FFF0C9;
+}
+input:focus{
+    border: 1px solid red;
+}
