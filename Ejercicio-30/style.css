@@ -1,0 +1,25 @@
+h1{
+    font-family: Cambria, Cochin, Times, serif;
+    color: #1f497d;
+    text-align: center;
+    text-transform: uppercase;
+    background-color:#bfbfbf;
+    letter-spacing:0.5em;
+    word-spacing: 1em;
+}
+h2{
+    font-family: Cambria, Cochin, Times, serif;
+    color: #632423;
+    font-size: 18px;
+    letter-spacing:0.5em;
+    text-transform: uppercase;
+}
+li{
+    font-style: italic;
+    font-weight: bolder;
+}
+li strong{
+    font-variant: small-caps;
+    font-weight: normal;
+    font-style: normal;
+}
